@@ -1,0 +1,6 @@
+F:\桌面\自学测试程序\20180330cs1\20180330cs1\bin\Debug\20180330cs1.exe.config
+F:\桌面\自学测试程序\20180330cs1\20180330cs1\bin\Debug\20180330cs1.exe
+F:\桌面\自学测试程序\20180330cs1\20180330cs1\bin\Debug\20180330cs1.pdb
+F:\桌面\自学测试程序\20180330cs1\20180330cs1\obj\Debug\20180330cs1.csprojResolveAssemblyReference.cache
+F:\桌面\自学测试程序\20180330cs1\20180330cs1\obj\Debug\20180330cs1.exe
+F:\桌面\自学测试程序\20180330cs1\20180330cs1\obj\Debug\20180330cs1.pdb

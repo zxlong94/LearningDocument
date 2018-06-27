@@ -1,0 +1,6 @@
+F:\桌面\自学测试程序\20180625Thread\20180625Thread\bin\Debug\20180625Thread.exe.config
+F:\桌面\自学测试程序\20180625Thread\20180625Thread\bin\Debug\20180625Thread.exe
+F:\桌面\自学测试程序\20180625Thread\20180625Thread\bin\Debug\20180625Thread.pdb
+F:\桌面\自学测试程序\20180625Thread\20180625Thread\obj\Debug\20180625Thread.csprojResolveAssemblyReference.cache
+F:\桌面\自学测试程序\20180625Thread\20180625Thread\obj\Debug\20180625Thread.exe
+F:\桌面\自学测试程序\20180625Thread\20180625Thread\obj\Debug\20180625Thread.pdb

@@ -1,0 +1,11 @@
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\bin\Debug\20180607ExtendableApp.exe.config
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\bin\Debug\20180607ExtendableApp.exe
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\bin\Debug\20180607ExtendableApp.pdb
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\bin\Debug\CommonSnappableTypes.dll
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\bin\Debug\CommonSnappableTypes.pdb
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\obj\Debug\20180607ExtendableApp.csprojResolveAssemblyReference.cache
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\obj\Debug\_20180607ExtendableApp.Form1.resources
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\obj\Debug\_20180607ExtendableApp.Properties.Resources.resources
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\obj\Debug\20180607ExtendableApp.csproj.GenerateResource.Cache
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\obj\Debug\20180607ExtendableApp.exe
+F:\桌面\自学测试程序\20180607ExtendableApp\20180607ExtendableApp\obj\Debug\20180607ExtendableApp.pdb

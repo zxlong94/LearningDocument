@@ -1,0 +1,6 @@
+F:\桌面\自学测试程序\20180529-Sort\20180529-Sort\bin\Debug\20180529-Sort.exe.config
+F:\桌面\自学测试程序\20180529-Sort\20180529-Sort\bin\Debug\20180529-Sort.exe
+F:\桌面\自学测试程序\20180529-Sort\20180529-Sort\bin\Debug\20180529-Sort.pdb
+F:\桌面\自学测试程序\20180529-Sort\20180529-Sort\obj\Debug\20180529-Sort.csprojResolveAssemblyReference.cache
+F:\桌面\自学测试程序\20180529-Sort\20180529-Sort\obj\Debug\20180529-Sort.exe
+F:\桌面\自学测试程序\20180529-Sort\20180529-Sort\obj\Debug\20180529-Sort.pdb

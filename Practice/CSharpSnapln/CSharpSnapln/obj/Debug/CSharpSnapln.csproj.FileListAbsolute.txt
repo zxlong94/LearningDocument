@@ -1,0 +1,6 @@
+F:\桌面\自学测试程序\CSharpSnapln\CSharpSnapln\bin\Debug\CSharpSnapln.dll
+F:\桌面\自学测试程序\CSharpSnapln\CSharpSnapln\bin\Debug\CSharpSnapln.pdb
+F:\桌面\自学测试程序\CSharpSnapln\CSharpSnapln\bin\Debug\CommonSnappableTypes.dll
+F:\桌面\自学测试程序\CSharpSnapln\CSharpSnapln\bin\Debug\CommonSnappableTypes.pdb
+F:\桌面\自学测试程序\CSharpSnapln\CSharpSnapln\obj\Debug\CSharpSnapln.dll
+F:\桌面\自学测试程序\CSharpSnapln\CSharpSnapln\obj\Debug\CSharpSnapln.pdb

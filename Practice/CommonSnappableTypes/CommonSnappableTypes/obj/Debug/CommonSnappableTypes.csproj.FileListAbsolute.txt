@@ -1,0 +1,4 @@
+F:\桌面\自学测试程序\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.dll
+F:\桌面\自学测试程序\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.pdb
+F:\桌面\自学测试程序\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.dll
+F:\桌面\自学测试程序\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.pdb

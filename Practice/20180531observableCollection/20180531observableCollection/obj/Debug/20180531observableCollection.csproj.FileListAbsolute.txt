@@ -1,0 +1,6 @@
+F:\桌面\自学测试程序\20180531observableCollection\20180531observableCollection\bin\Debug\20180531observableCollection.exe.config
+F:\桌面\自学测试程序\20180531observableCollection\20180531observableCollection\bin\Debug\20180531observableCollection.exe
+F:\桌面\自学测试程序\20180531observableCollection\20180531observableCollection\bin\Debug\20180531observableCollection.pdb
+F:\桌面\自学测试程序\20180531observableCollection\20180531observableCollection\obj\Debug\20180531observableCollection.csprojResolveAssemblyReference.cache
+F:\桌面\自学测试程序\20180531observableCollection\20180531observableCollection\obj\Debug\20180531observableCollection.exe
+F:\桌面\自学测试程序\20180531observableCollection\20180531observableCollection\obj\Debug\20180531observableCollection.pdb
